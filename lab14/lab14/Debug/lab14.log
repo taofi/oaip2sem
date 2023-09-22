@@ -1,0 +1,4 @@
+﻿  var4.cpp
+C:\Users\User\Desktop\ун\2sem\lab14\lab14\var4.cpp(28,18): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\ун\2sem\lab14\lab14\var4.cpp(85,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab14.vcxproj -> C:\Users\User\Desktop\ун\2sem\lab14\Debug\lab14.exe

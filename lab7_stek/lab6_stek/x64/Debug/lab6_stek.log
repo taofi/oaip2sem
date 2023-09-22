@@ -1,0 +1,4 @@
+﻿  lab7_stek.cpp
+C:\Users\User\Desktop\ун\2sem\lab7_stek\lab6_stek\lab7_stek.cpp(209,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\ун\2sem\lab7_stek\lab6_stek\lab7_stek.cpp(247,26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab6_stek.vcxproj -> C:\Users\User\Desktop\ун\2sem\lab7_stek\x64\Debug\lab7_stek.exe

@@ -1,0 +1,8 @@
+﻿  12dop1.cpp
+C:\Users\User\Desktop\ун\2sem\12dop1\12dop1\12dop1.cpp(96,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\Desktop\ун\2sem\12dop1\12dop1\12dop1.cpp(101,24): warning C4101: letter: неиспользованная локальная переменная
+C:\Users\User\Desktop\ун\2sem\12dop1\12dop1\12dop1.cpp(100,22): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\User\Desktop\ун\2sem\12dop1\12dop1\12dop1.cpp(99,8): warning C4101: foundNode: неиспользованная локальная переменная
+C:\Users\User\Desktop\ун\2sem\12dop1\12dop1\12dop1.cpp(100,19): warning C4101: n: неиспользованная локальная переменная
+C:\Users\User\Desktop\ун\2sem\12dop1\12dop1\12dop1.cpp(103,7): warning C4101: isFind: неиспользованная локальная переменная
+  12dop1.vcxproj -> C:\Users\User\Desktop\ун\2sem\12dop1\x64\Debug\12dop1.exe

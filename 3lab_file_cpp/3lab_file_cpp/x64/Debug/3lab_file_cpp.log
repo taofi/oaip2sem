@@ -1,0 +1,3 @@
+﻿  var11_2.cpp
+C:\Users\User\Desktop\ун\2sem\3lab_file_cpp\3lab_file_cpp\var11_2.cpp(119,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  3lab_file_cpp.vcxproj -> C:\Users\User\Desktop\ун\2sem\3lab_file_cpp\x64\Debug\3lab_file_cpp.exe

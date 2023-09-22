@@ -1,0 +1,4 @@
+find
+find something
+help
+show help info

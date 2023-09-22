@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (12вщз2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  12dop2.cpp
+C:\Users\User\Desktop\ун\2sem\12вщз2\12вщз2\12dop2.cpp(69): warning C4715: f: значение возвращается не при всех путях выполнения
+  12вщз2.vcxproj -> C:\Users\User\Desktop\ун\2sem\12вщз2\x64\Debug\12dop2.exe

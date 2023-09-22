@@ -1,0 +1,9 @@
+﻿  vr4.cpp
+C:\Users\User\Desktop\ун\2sem\lab12\lab12\vr4.cpp(39,32): warning C4474: "fscanf_s" : для строки формата передано слишком много аргументов
+C:\Users\User\Desktop\ун\2sem\lab12\lab12\vr4.cpp(39,32): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\User\Desktop\ун\2sem\lab12\lab12\vr4.cpp(107,40): error C2664: "void saveTree(btree::Object &,char *)": невозможно преобразовать аргумент 2 из "const char [6]" в "char *"
+C:\Users\User\Desktop\ун\2sem\lab12\lab12\vr4.cpp(107,33): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\User\Desktop\ун\2sem\lab12\lab12\vr4.cpp(56,6): message : см. объявление "saveTree"
+C:\Users\User\Desktop\ун\2sem\lab12\lab12\vr4.cpp(109,40): error C2664: "bool buildTree(char *,btree::Object &)": невозможно преобразовать аргумент 1 из "const char [6]" в "char *"
+C:\Users\User\Desktop\ун\2sem\lab12\lab12\vr4.cpp(109,23): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\User\Desktop\ун\2sem\lab12\lab12\vr4.cpp(26,6): message : см. объявление "buildTree"

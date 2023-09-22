@@ -1,0 +1,3 @@
+﻿  lab10rec.cpp
+C:\Users\User\Desktop\ун\2sem\lab10rec\lab10rec\lab10rec.cpp(86,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab10rec.vcxproj -> C:\Users\User\Desktop\ун\2sem\lab10rec\x64\Debug\lab10rec.exe

@@ -1,0 +1,6 @@
+﻿  dop2.cpp
+C:\Users\User\Desktop\ун\2sem\lab09_doublList\lab09_doublList\dop2.cpp(187,11): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\ун\2sem\lab09_doublList\lab09_doublList\dop2.cpp(189,11): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\ун\2sem\lab09_doublList\lab09_doublList\dop2.cpp(202,7): warning C4101: s: неиспользованная локальная переменная
+C:\Users\User\Desktop\ун\2sem\lab09_doublList\lab09_doublList\dop2.cpp(202,18): warning C4101: c: неиспользованная локальная переменная
+  lab09_doublList.vcxproj -> C:\Users\User\Desktop\ун\2sem\lab09_doublList\x64\Debug\lab09_doublList.exe

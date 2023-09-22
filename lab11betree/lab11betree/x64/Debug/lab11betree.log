@@ -1,0 +1,3 @@
+﻿  lab11betree.cpp
+C:\Users\User\Desktop\ун\2sem\lab11betree\lab11betree\lab11betree.cpp(46,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab11betree.vcxproj -> C:\Users\User\Desktop\ун\2sem\lab11betree\x64\Debug\lab11betree.exe
